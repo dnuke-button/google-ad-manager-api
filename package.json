@@ -12,7 +12,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "soap": "0.36.0"
+    "soap": "^1.0.2"
   },
   "files": [
     "README.md",
@@ -37,6 +37,6 @@
     "@types/node": "10.5.8",
     "@types/request": "^2.48.5",
     "@types/sax": "^1.2.1",
-    "typescript": "3.0.1"
+    "typescript": "5.4.5"
   }
 }

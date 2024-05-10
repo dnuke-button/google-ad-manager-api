@@ -1,10 +1,12 @@
 {
   "compilerOptions": {
+    "maxNodeModuleJsDepth": 0,
+    "skipLibCheck": true,
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "declaration": true,
     "forceConsistentCasingInFileNames": true,
-    "lib": ["es2016"],
+    "lib": ["es2018"],
     "module": "commonjs",
     "noEmitOnError": true,
     "noFallthroughCasesInSwitch": true,
