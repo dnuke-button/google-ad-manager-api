@@ -12,7 +12,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "soap": "^1.0.2"
+    "soap": "git+ssh://git@github.com:dnuke-button/node-soap"
   },
   "files": [
     "README.md",
