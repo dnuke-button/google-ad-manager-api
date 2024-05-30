@@ -1,6 +1,6 @@
 {
   "name": "google-ad-manager-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "scripts": {
     "compile": "tsc -p .",
@@ -12,7 +12,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "soap": "git+ssh://git@github.com:dnuke-button/node-soap"
+    "soap": "git+ssh://git@github.com:dnuke-button/node-soap#c032e77488af7737b9bc85f2a8ca1d8e90b235d3"
   },
   "files": [
     "README.md",
